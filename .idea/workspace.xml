@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1355fe3-84fc-442a-b82c-5a135e8f7247" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ComparableAssociation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComparableAssociation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MapEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NaturalComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NaturalComparator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685720665911</updated>
-      <workItem from="1685720667455" duration="9707000" />
+      <workItem from="1685720667455" duration="10338000" />
     </task>
     <task id="LOCAL-00001" summary="Classes created">
       <created>1685734110140</created>
@@ -136,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685740902903</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Comparación de letras">
+      <created>1685752867017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685752867017</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +155,8 @@
     <MESSAGE value="Class Association: key-value association" />
     <MESSAGE value="Metod of Binary search tree implemented with nodes" />
     <MESSAGE value="Binary tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary tree" />
+    <MESSAGE value="Comparación de letras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comparación de letras" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
