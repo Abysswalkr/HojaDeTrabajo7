@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1355fe3-84fc-442a-b82c-5a135e8f7247" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComparableAssociation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComparableAssociation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MapEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MapEntry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685720665911</updated>
-      <workItem from="1685720667455" duration="8802000" />
+      <workItem from="1685720667455" duration="9707000" />
     </task>
     <task id="LOCAL-00001" summary="Classes created">
       <created>1685734110140</created>
@@ -121,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685738268671</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Metod of Binary search tree implemented with nodes">
+      <created>1685740348699</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685740348699</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Binary tree">
+      <created>1685740902903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685740902903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +147,9 @@
     <MESSAGE value="Classes created" />
     <MESSAGE value="File reader" />
     <MESSAGE value="Class Association: key-value association" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class Association: key-value association" />
+    <MESSAGE value="Metod of Binary search tree implemented with nodes" />
+    <MESSAGE value="Binary tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary tree" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
