@@ -3,8 +3,16 @@ import java.io.FileNotFoundException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * La clase Main es la clase principal del programa que realiza la traducción de palabras.
+ */
 public class Main {
 
+    /**
+     * El método principal que inicia la ejecución del programa.
+     *
+     * @param args los argumentos de la línea de comandos
+     */
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
